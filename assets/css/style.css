@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* replaced div by nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,15 +32,15 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* -----------------------------------------------------*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -60,11 +60,12 @@ a {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*relocated p to follow html structur*/
 p {
     font-size: 16px;
 }
-
+/* relocated this to match the structure of html*/
+/* groups article together im block*/
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -73,7 +74,7 @@ article {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* groups images together in one block*/
 article img {
     max-height: 200px;
 }
@@ -87,12 +88,12 @@ article img {
     float: right;
     margin-left: 25px;
 }
-
+/* groups h2 together in one block*/
  article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*-------------------------------------------------------- */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,30 +104,33 @@ article img {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* replacing benefits by aside*/
+/* replacing div by sectionk*/
+/* groups section together in one block*/
 section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* groups h3 together in one block*/
 section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* groups images together in one block*/
 section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*-------------------------------------------------------- */
+/* switched div to footer and remover class */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*-------------------------------------------------------- */
 footer h2 {
     font-size: 20px;
 }
