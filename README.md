@@ -23,7 +23,7 @@ To reach that goal, we have completed and reorganised parts of codes within html
  
  ## Visual
 
- [snapshot-webpage](images/snapshot.png)
+ [snapshot](images/snapshot.png)
     
 
 ## License
