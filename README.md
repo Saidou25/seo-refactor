@@ -24,10 +24,9 @@ To reach that goal, we have completed and reorganised parts of codes within html
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/_Users_coding_bootcamp_challenges_seo-refactor_index.html.png)
     ```
 
 ## License
 [© 2019 Horiseon Social Solution Services, Inc. All Rights Reserved.](#license)
-
 
