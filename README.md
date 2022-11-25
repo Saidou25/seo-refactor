@@ -3,8 +3,7 @@
 
 ## [Horiseon](https://saidou25.github.io/seo-refactor/)
 
-
-
+![Alt text](assets/images/_Users_coding_bootcamp_challenges_seo-refactor_index.html%20(1).png)
 ## Table of Contents            
       
 1. Description
